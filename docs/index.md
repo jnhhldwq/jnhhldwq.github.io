@@ -57,7 +57,7 @@
 
 #### 230628音频-不做分公司工作
 <audio controls>
-  <source src="media/不作分公司工作.mp3" type="audio/mp3">
+  <source src="media/不作分公司工作.MP3" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
 
