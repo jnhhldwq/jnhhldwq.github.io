@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "457455d8792c2dd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6cfa6a14384f289",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e988c4b0c4e5adb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "事实回顾/事实回顾.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64501f0d743394df",
+    "type": "split",
+    "children": [
+      {
+        "id": "05b85afde846da23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1693e958b8fcabee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "66049c0d16fcbf6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2c39baef9519a4e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358.5
+  },
+  "right": {
+    "id": "8983702dc8ce8bb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "65015ac3cac66e37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0877cd198a5a03ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "事实回顾/事实回顾.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0ac34e5b2595f97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "事实回顾/事实回顾.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79fc8a432cd99bf1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "77d7721119fb4fa6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "事实回顾/事实回顾.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e988c4b0c4e5adb9",
+  "lastOpenFiles": [
+    "公司文件/公司文件.md",
+    "imgs/Pasted image 20241230014907.png",
+    "imgs/Pasted image 2024.png",
+    "司法文书/司法文书.md",
+    "imgs/Pasted image 20241230004940.png",
+    "imgs/Pasted image 20241230004654.png",
+    "imgs/Pasted image 20241230004432.png",
+    "imgs/Pasted image 20241230003836.png",
+    "imgs/Pasted image 20241224185331.png",
+    "imgs/Pasted image 20241211130414.png",
+    "imgs/Pasted image 20241211124543.png",
+    "imgs/Pasted image 20241211124456.png",
+    "事实回顾/事实回顾.md",
+    "media/没法搁机关.mp3",
+    "index.md",
+    "免责声明/免责声明.md",
+    "法律规定/法律规定.md",
+    "违法违规/违法违规.md",
+    "media/66-9月3日 17点19分.mp3",
+    "media/请假流程在分公司提起的原因.mp3",
+    "media/请假流程在分公司提起的原因.mp3.md",
+    "media/白内障.mp3",
+    "media/12月20日，我这么一交，你找谁都不好使了，跟傻似的.mp3",
+    "media/三级签合同，明天就能办.mp3",
+    "media/不占分公司编制.mp3",
+    "media/不作分公司工作.MP3",
+    "media/不作分公司工作.mp3",
+    "media/12月17日调岗降薪音频.mp3",
+    "事实回顾/未命名.md",
+    "法律规定/劳动合同法.md",
+    "法律规定/劳动法.md"
+  ]
+}
