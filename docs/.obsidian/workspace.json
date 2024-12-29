@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d6cfa6a14384f289",
+        "id": "21af78c698b0fb29",
         "type": "tabs",
         "children": [
           {
-            "id": "e988c4b0c4e5adb9",
+            "id": "e9f7d56ee5ebda0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "事实回顾/事实回顾.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "事实回顾/事实回顾.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "事实回顾/事实回顾.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "事实回顾/事实回顾.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e988c4b0c4e5adb9",
+  "active": "e9f7d56ee5ebda0a",
   "lastOpenFiles": [
-    "index.md",
-    "media/不作分公司工作.mp3",
     "事实回顾/事实回顾.md",
+    "事实回顾/media/66-9月3日 17点19分.mp3",
+    "事实回顾/media/没法搁机关.mp3",
+    "media/不作分公司工作.mp3",
+    "事实回顾/media",
+    "index.md",
     "media/不作分公司工作.MP3",
     "media/没法搁机关.mp3",
     "公司文件/公司文件.md",
@@ -173,9 +168,6 @@
     "media/请假流程在分公司提起的原因.mp3.md",
     "media/白内障.mp3",
     "media/12月20日，我这么一交，你找谁都不好使了，跟傻似的.mp3",
-    "media/三级签合同，明天就能办.mp3",
-    "media/不占分公司编制.mp3",
-    "media/12月17日调岗降薪音频.mp3",
     "事实回顾/未命名.md",
     "法律规定/劳动合同法.md",
     "法律规定/劳动法.md"
