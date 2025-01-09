@@ -10,9 +10,27 @@
 [司法文书](司法文书/司法文书.md)
 
 
+邮箱：jnhhldwq@hotmail.com
+
+**承诺为每个遭受不法待遇的职工单独免费开设一个网站，建构“劳动维权”系列网站，然后整理为一个集合，争取整理出版，这个网站里的故事也会是后续劳动维权集合网站上的第一个链接。**
+
+**网页比流媒体的优势在于，信息完整，方便大家后续在流媒体平台披露时另附网址，公道自在人心，只要材料信息完整，委屈不会白受，眼泪不会白流。**
+
+什么是职场霸凌？即受到职位高者无端指责谩骂、同事的排挤与孤立、言语上的威胁、当众侮辱、恶意中伤、性骚扰、上级利用职权对属下员工进行报复性的调岗（跨地区）、降职降薪、惩罚性罚款、扣发工资奖金、打压施压劝退、不公平对打等行为。
+央视新闻曾经统计过近五年来遭遇过职场霸凌的网友为66.3%
+[遭遇职场霸凌怎么办？](https://www.chinacourt.org/article/detail/2020/04/id/4974424.shtml)
+
+[大约三分之一的员工曾遭受过职场霸凌](https://cn.weforum.org/stories/2024/03/https-www-weforum-org-agenda-2024-02-workplace-bullying-how-to-deal-cn/)
+
+你要明白工作不是施舍，你并不孤独，最后一定要拥有强大的内心。职场欺凌（霸凌），最让人难受的是“气不过”。
+
+[如果企业可以因为经营困难违法，那老百姓可以因为生存困难违法吗](https://www.douyin.com/video/7456050375066471692)
+虽然大环境不好，存在司法机关纵容企业违反劳动法的可能，但你不应白受委屈，你的泪水也不会白流，日拱一卒，相信我们的就业环境会越来越好，而不应停留在就业环境及劳动法实践负反馈的过程中。
+
+
 ## 主要内容
 
-*本网页于2024年12月30日凌晨上线，部分非关键证据尚未加挂链接，随事件的逐步展开补齐各项证据的链接，预祝事件中的主人公和相关单位蛇年大吉*
+*本网页于2025年1月份春节前上线，部分非关键证据尚未加挂链接，随事件的逐步展开补齐各项证据的链接，预祝事件中的主人公和相关单位蛇年大吉*
 
 *主要内容使用了字母缩写，相关文件未尚未上传图片版仅使用文字版，如有遗漏，纯属巧合雷同，随事件的逐步推进和拿到更为详细的材料后，为读者还原字母缩写和调整为带签章的图片*
 
@@ -147,7 +165,11 @@ Z：不是，你是学法的，东西，嘛，你对法律的理解都比我们�
 - [甘律师教你打劳动仲裁](https://www.douyin.com/user/MS4wLjABAAAA7bvuhWt-hn6VYpYWXdIwAZua4yGZ5hxNhq0-dgL5r_VGFhacmzckZDVVeXqp7VSK)
 - [职场生活指南](https://www.douyin.com/user/MS4wLjABAAAABUaMEDWNDBABymtgDPkl8qBqOIBWaAXapLRlzJR8pZ72VRCF2NQMZnxFUODlfjKW)
 - [44661663952](https://www.douyin.com/user/MS4wLjABAAAA4QxffH-aqgbzOrc7214NNUtPZiwuKV9KNbVKRPM4PoYaoVG_E3hwahwdYbzq4flA)
--  [二胖](https://www.douyin.com/user/MS4wLjABAAAA9clrIS5DrtAUxWcAZ9Gfnnun0AKtLyaVGDG15Gt0H2g)-马翔宇事件的抖音
+- [二胖](https://www.douyin.com/user/MS4wLjABAAAA9clrIS5DrtAUxWcAZ9Gfnnun0AKtLyaVGDG15Gt0H2g)-马翔宇事件的抖音
+- [是晴天啊](https://www.douyin.com/user/MS4wLjABAAAAsw49CduEp4kCWuykOn6kiRX2bV6A0FzcB0K2qv6JAYIt23lpFFZ0tw0XbOB2HHW_)
+- [老曹谈职场](https://www.douyin.com/user/MS4wLjABAAAA-ELVafO7igqlHP2r1wBljJ-1ZG3xmFLIoCA4x-k9kExS3k4rakkmxyhKc8O16aRG)
+- [晨辉律师](https://www.douyin.com/user/MS4wLjABAAAASuOSksJ0OwmHuuSRFA-rnL4rjhLW9RdL9wS56JOFLSY)
+- [宝子(高情商)](https://www.douyin.com/user/MS4wLjABAAAAZuiSL7S04u_1xxqBd3aQ35XXnzI5UBTNtqAfcDMA5Tg)
 - 大家有好的抖音号可以在讨论区补充
 
 ## 讨论链接

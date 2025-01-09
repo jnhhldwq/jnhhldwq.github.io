@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "违法违规/违法违规.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "违法违规/违法违规.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "违法违规/违法违规.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "违法违规/违法违规.md"
+                "file": "index.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "e9f7d56ee5ebda0a",
   "lastOpenFiles": [
+    "违法违规/违法违规.md",
     "违法违规/media/10月12日禁带手机精神压迫.mp3",
     "违法违规/media/这学上的啊.mp3",
     "事实回顾/事实回顾.md",
-    "违法违规/违法违规.md",
     "事实回顾/media/66-9月3日 17点19分.mp3",
     "违法违规/media",
     "事实回顾/media/没法搁机关.mp3",
@@ -175,7 +175,6 @@
     "imgs/Pasted image 20241211124456.png",
     "免责声明/免责声明.md",
     "法律规定/法律规定.md",
-    "media/请假流程在分公司提起的原因.mp3",
     "media/请假流程在分公司提起的原因.mp3.md",
     "事实回顾/未命名.md",
     "法律规定/劳动合同法.md",
