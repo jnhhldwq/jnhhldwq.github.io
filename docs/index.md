@@ -108,7 +108,7 @@
 补正于门头沟区   
 
 同步原文刊载jnhhldwq.github.io，关键音频及金额核算文件一同供公司查阅。与起诉状事由对应的证据一通刊载，时间短，言辞或不当，逻辑或混乱，恳请领导见谅。
-
+![](imgs/校内论坛已有关注.png)
 
 金额核算表格：
 [工作簿 3.xlsx](https://1drv.ms/x/c/2ee65bd00fdba572/EQb-mZfe09tDpAJCiFJcY3AB02KKw9eBw3cahmmRNzL_MA?e=ivhpS5)
